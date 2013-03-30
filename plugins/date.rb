@@ -36,7 +36,8 @@ module Octopress
       if format.nil? || format.empty? || format == "ordinal"
         date_formatted = ordinalize(date)
       else
-        date_formatted = date.strftime(format)
+        #date_formatted = date.strftime(format)
+        date_formatted = I18n.localize(date, :format => format)
         date_formatted.gsub!(/%o/, ordinal(date.strftime('%e').to_i))
       end
       date_formatted
