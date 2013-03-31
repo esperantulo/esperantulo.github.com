@@ -6,7 +6,7 @@ comments: true
 categories: Esperanto komenco blogo
 ---
 
-Saluton esperantistoj de la tute mondo!
+Saluton al esperantistoj de la tuta mondo!
 
 Nun mi kaj mia koramikino sidas ĉe tablo en kafejo kaj kreas ĉi tiu blogo.
 
