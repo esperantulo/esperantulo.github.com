@@ -11,10 +11,10 @@ Saluton!
 En Ĥarkovo(mia urbo) ni havas esperanton klubon, kiu nomiĝas "Ardo". Kaj vi renkontiĝas
 ĉiu Demanĉe en librejo de Korolenko, sed hodiaŭ la renkotiĝo okazis en antikafejo "Hejme"
 (en la rusa lingvo "Дома").
-Ni atendis havi paroladon per Skype kun niaj geamikoj el Odeso, kiuj celebras Humurino
+Ni atendis havi paroladon per Skype kun niaj geamikoj el Odeso, kiuj celebras Humurinon
 (la 1-a de aprilo estas la festo de humoro), do iu inter ni kunportis amuzajn ĉapojn,
 
-Mi volas montru al vi iom da fotoj =)
+Mi volas montri al vi iom da fotoj =)
 
 
 {% img http://cs309631.vk.me/v309631281/5359/U4-y-pwt2bk.jpg Mi kaj Svetlana %}
