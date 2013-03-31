@@ -20,4 +20,4 @@ Por la blogo mi uzas [Octopress](http://octopress.org/), sed mi iomete ŝangis t
 tiu povas subteni Esperanton. Kaj nun estas nokto. Estis subite por mi, ke Octopress aŭ Jakyll
 ne integritaj kun I18n. Sed ne pensu pri tio se vi ne estas programisto kiel mi.
 
-Nun mi lacas, sed poste mi scribos plu. Bonan nokton!
+Nun mi lacas, sed poste mi skribos plu. Bonan nokton!
