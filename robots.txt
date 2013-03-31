@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://esperantulo.github.com/esperantulo/sitemap.xml 
+Sitemap: http://yoursite.com/sitemap.xml 
