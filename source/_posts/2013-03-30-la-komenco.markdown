@@ -6,7 +6,7 @@ comments: true
 categories: Esperanto komenco blogo
 ---
 
-Saluton esperantistoj de tute mondo.
+Saluton esperantistoj de la tute mondo!
 
 Nun mi kaj mia koramikino sidas ĉe tablo en kafejo kaj kreas ĉi tiu blogo.
 
@@ -20,4 +20,4 @@ Por la blogo mi uzas [Octopress](http://octopress.org/), sed mi iomete ŝangis t
 tiu povas subteni Esperanton. Kaj nun estas nokto. Estis subite por mi, ke Octopress aŭ Jakyll
 ne integritaj kun I18n. Sed ne pensu pri tio se vi ne estas programisto kiel mi.
 
-Nun mi lacas, sed poste vi scribos plu. Bonan nokton!
+Nun mi lacas, sed poste mi scribos plu. Bonan nokton!
