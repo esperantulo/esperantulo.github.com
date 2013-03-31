@@ -8,10 +8,10 @@ categories: Esperanto rekontiĝo Ĥarkovo fotoj
 
 Saluton!
 
-En Ĥarkovo(mia urbo) ni havas esperanto klubo, kiu nomiĝas "Ardo". Kaj vi renkontiĝas
+En Ĥarkovo(mia urbo) ni havas esperanton klubon, kiu nomiĝas "Ardo". Kaj vi renkontiĝas
 ĉiu Demanĉe en librejo de Korolenko, sed hodiaŭ la renkotiĝo okazis en antikafejo "Hejme"
 (en la rusa lingvo "Дома").
-Ni atendis havi parolado per Skype kun niaj amikoj el Odeso, kie popoloj celebras Humurino
+Ni atendis havi paroladon per Skype kun niaj geamikoj el Odeso, kiuj celebras Humurino
 (la 1-a de aprilo estas la festo de humoro), do iu inter ni kunportis amuzajn ĉapojn,
 
 Mi volas montru al vi iom da fotoj =)
