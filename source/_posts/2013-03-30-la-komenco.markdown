@@ -10,7 +10,7 @@ Saluton al esperantistoj de la tuta mondo!
 
 Nun mi kaj mia koramikino sidas ĉe tablo en kafejo kaj kreas ĉi tiun blogon.
 
-Mi havas iom celojn por la blogo. Mi planas uzi tiun por praktiki mian skribadon
+Mi havas iom da celoj por la blogo. Mi planas uzi tiun por praktiki mian skribadon
 en Esperanto. Bonvolu korekti min se mi havas erarojn, ĉar mi estas nur komencanto.
 
 
