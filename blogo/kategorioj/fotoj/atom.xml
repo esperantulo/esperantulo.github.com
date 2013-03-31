@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Esperantulo]]></title>
-  <link href="http://esperantulo.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: fotoj | Esperantulo]]></title>
+  <link href="http://esperantulo.github.com/blogo/kategorioj/fotoj/atom.xml" rel="self"/>
   <link href="http://esperantulo.github.com/"/>
   <updated>2013-04-01T00:50:50+03:00</updated>
   <id>http://esperantulo.github.com/</id>
@@ -20,9 +20,9 @@
     <id>http://esperantulo.github.com/blogo/2013/03/31/esperanto-renkontigo-en-harkovo</id>
     <content type="html"><![CDATA[<p>Saluton!</p>
 
-<p>En Ĥarkovo(mia urbo) ni havas esperanton klubon, kiu nomiĝas &#8220;Ardo&#8221;. Kaj vi renkontiĝas
-ĉiu Demanĉe en librejo de Korolenko, sed hodiaŭ la renkotiĝo okazis en antikafejo &#8220;Hejme&#8221;
-(en la rusa lingvo &#8220;Дома&#8221;).
+<p>En Ĥarkovo(mia urbo) ni havas esperanton klubon, kiu nomiĝas "Ardo". Kaj vi renkontiĝas
+ĉiu Demanĉe en librejo de Korolenko, sed hodiaŭ la renkotiĝo okazis en antikafejo "Hejme"
+(en la rusa lingvo "Дома").
 Ni atendis havi paroladon per Skype kun niaj geamikoj el Odeso, kiuj celebras Humurino
 (la 1-a de aprilo estas la festo de humoro), do iu inter ni kunportis amuzajn ĉapojn,</p>
 
@@ -54,28 +54,6 @@ Via klubo kune</p>
 <hr />
 
 <p>Dankon pro legi. Sekvan fojon mi rakontos pri kiel mi lernas Esperanton. Ĝis!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[La komenco]]></title>
-    <link href="http://esperantulo.github.com/blogo/2013/03/30/la-komenco/"/>
-    <updated>2013-03-30T18:29:00+02:00</updated>
-    <id>http://esperantulo.github.com/blogo/2013/03/30/la-komenco</id>
-    <content type="html"><![CDATA[<p>Saluton al esperantistoj de la tuta mondo!</p>
-
-<p>Nun mi kaj mia koramikino sidas ĉe tablo en kafejo kaj kreas ĉi tiun blogon.</p>
-
-<p>Mi havas iom da celoj por la blogo. Mi planas uzi tiun por praktiki mian skribadon
-en Esperanto. Bonvolu korekti min se mi havas erarojn, ĉar mi estas nur komencanto.</p>
-
-<h2>Post 5-7 horoj&#8230;</h2>
-
-<p>Por la blogo mi uzas <a href="http://octopress.org/">Octopress</a>, sed mi iomete ŝangis tiun, do
-tiu povas subteni Esperanton. Kaj nun estas nokto. Estis subite por mi, ke Octopress aŭ Jakyll
-ne integritaj kun I18n. Sed ne pensu pri tio se vi ne estas programisto kiel mi.</p>
-
-<p>Nun mi lacas, sed poste mi skribos plu. Bonan nokton!</p>
 ]]></content>
   </entry>
   
