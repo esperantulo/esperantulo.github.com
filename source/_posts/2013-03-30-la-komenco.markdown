@@ -8,9 +8,9 @@ categories: Esperanto komenco blogo
 
 Saluton al esperantistoj de la tuta mondo!
 
-Nun mi kaj mia koramikino sidas ĉe tablo en kafejo kaj kreas ĉi tiu blogo.
+Nun mi kaj mia koramikino sidas ĉe tablo en kafejo kaj kreas ĉi tiun blogon.
 
-Mi havas iom celoj por la blogo. Mi planas uzi tiun pro praktiki mian skribado
+Mi havas iom celojn por la blogo. Mi planas uzi tiun por praktiki mian skribadon
 en Esperanto. Bonvolu korekti min se mi havas erarojn, ĉar mi estas nur komencanto.
 
 
