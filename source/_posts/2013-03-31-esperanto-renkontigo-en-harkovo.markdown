@@ -36,7 +36,7 @@ Nur kvin esperantistoj
 ___
 
 {% img http://cs309631.vk.me/v309631281/5386/h1orw0OQH5Y.jpg Via klubo kune %}
-Via klubo kune
+Nia klubo kune
 ___
 
 
