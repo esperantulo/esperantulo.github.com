@@ -1,27 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://esperantulo.github.com/blogo/2013/03/30/la-komenco/</loc>
+        <loc>http://esperantulo.com/blogo/2013/03/30/la-komenco/</loc>
         <lastmod>2013-03-31T23:46:47+03:00</lastmod>
     </url>
     <url>
-        <loc>http://esperantulo.github.com/blogo/2013/03/31/esperanto-renkontigo-en-harkovo/</loc>
+        <loc>http://esperantulo.com/blogo/2013/03/31/esperanto-renkontigo-en-harkovo/</loc>
         <lastmod>2013-04-01T01:06:13+03:00</lastmod>
     </url>
     <url>
-        <loc>http://esperantulo.github.com/search.html</loc>
+        <loc>http://esperantulo.com/search.html</loc>
         <lastmod>2013-03-30T18:41:20+02:00</lastmod>
     </url>
     <url>
-        <loc>http://esperantulo.github.com/robots.txt</loc>
+        <loc>http://esperantulo.com/pri-mi/</loc>
+        <lastmod>2013-04-02T00:39:09+03:00</lastmod>
+    </url>
+    <url>
+        <loc>http://esperantulo.com/robots.txt</loc>
         <lastmod>2013-03-30T18:18:41+02:00</lastmod>
     </url>
     <url>
-        <loc>http://esperantulo.github.com/blogo/arhivoj/</loc>
+        <loc>http://esperantulo.com/blogo/arhivoj/</loc>
         <lastmod>2013-04-01T01:06:13+03:00</lastmod>
     </url>
     <url>
-        <loc>http://esperantulo.github.com/</loc>
+        <loc>http://esperantulo.com/</loc>
         <lastmod>2013-04-01T01:06:13+03:00</lastmod>
     </url>
 </urlset>

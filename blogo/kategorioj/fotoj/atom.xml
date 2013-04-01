@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: fotoj | Esperantulo]]></title>
-  <link href="http://esperantulo.github.com/blogo/kategorioj/fotoj/atom.xml" rel="self"/>
-  <link href="http://esperantulo.github.com/"/>
-  <updated>2013-04-01T01:06:22+03:00</updated>
-  <id>http://esperantulo.github.com/</id>
+  <link href="http://esperantulo.com/blogo/kategorioj/fotoj/atom.xml" rel="self"/>
+  <link href="http://esperantulo.com/"/>
+  <updated>2013-04-02T00:42:03+03:00</updated>
+  <id>http://esperantulo.com/</id>
   <author>
     <name><![CDATA[Sergej Potapov]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Esperanto renkontiĝo en Ĥarkovo]]></title>
-    <link href="http://esperantulo.github.com/blogo/2013/03/31/esperanto-renkontigo-en-harkovo/"/>
+    <link href="http://esperantulo.com/blogo/2013/03/31/esperanto-renkontigo-en-harkovo/"/>
     <updated>2013-03-31T23:56:00+03:00</updated>
-    <id>http://esperantulo.github.com/blogo/2013/03/31/esperanto-renkontigo-en-harkovo</id>
+    <id>http://esperantulo.com/blogo/2013/03/31/esperanto-renkontigo-en-harkovo</id>
     <content type="html"><![CDATA[<p>Saluton!</p>
 
 <p>En Ĥarkovo(mia urbo) ni havas esperanton klubon, kiu nomiĝas "Ardo". Kaj vi renkontiĝas

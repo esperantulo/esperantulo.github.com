@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: komenco | Esperantulo]]></title>
-  <link href="http://esperantulo.github.com/blogo/kategorioj/komenco/atom.xml" rel="self"/>
-  <link href="http://esperantulo.github.com/"/>
-  <updated>2013-04-01T01:06:22+03:00</updated>
-  <id>http://esperantulo.github.com/</id>
+  <link href="http://esperantulo.com/blogo/kategorioj/komenco/atom.xml" rel="self"/>
+  <link href="http://esperantulo.com/"/>
+  <updated>2013-04-02T00:42:03+03:00</updated>
+  <id>http://esperantulo.com/</id>
   <author>
     <name><![CDATA[Sergej Potapov]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[La komenco]]></title>
-    <link href="http://esperantulo.github.com/blogo/2013/03/30/la-komenco/"/>
+    <link href="http://esperantulo.com/blogo/2013/03/30/la-komenco/"/>
     <updated>2013-03-30T18:29:00+02:00</updated>
-    <id>http://esperantulo.github.com/blogo/2013/03/30/la-komenco</id>
+    <id>http://esperantulo.com/blogo/2013/03/30/la-komenco</id>
     <content type="html"><![CDATA[<p>Saluton al esperantistoj de la tuta mondo!</p>
 
 <p>Nun mi kaj mia koramikino sidas ĉe tablo en kafejo kaj kreas ĉi tiun blogon.</p>
