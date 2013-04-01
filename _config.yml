@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://esperantulo.github.com
+url: http://esperantulo.com
 title: Esperantulo
 subtitle: La blogo de ulo kiu lernas Esperanton
 author: Sergej Potapov
 simple_search: http://google.com/search
-description:
+description: La blogo de ulu kiu lernas Esperanton. Interesaj artikoloj pri vivo de junulo ja Esperanto movado.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
