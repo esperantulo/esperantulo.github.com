@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Esperanto | Esperantulo]]></title>
   <link href="http://esperantulo.com/blogo/kategorioj/esperanto/atom.xml" rel="self"/>
   <link href="http://esperantulo.com/"/>
-  <updated>2013-04-02T03:06:13+03:00</updated>
+  <updated>2013-04-03T00:06:31+03:00</updated>
   <id>http://esperantulo.com/</id>
   <author>
     <name><![CDATA[Sergej Potapov]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Kiam akuzativo gravas]]></title>
+    <link href="http://esperantulo.com/blogo/2013/04/02/kiam-akuzativo-gravas/"/>
+    <updated>2013-04-02T23:45:00+03:00</updated>
+    <id>http://esperantulo.com/blogo/2013/04/02/kiam-akuzativo-gravas</id>
+    <content type="html"><![CDATA[<p>Kelkfoje mi forgesas pri akuzativo. Sed mi bone memoras, ke ĝi estas tre grava!</p>
+
+<table>
+    <tr>
+        <td style="padding: 10px 30px 10px 30px">
+            <img src="http://i1078.photobucket.com/albums/w484/greyblake/knabo_mangas_bananon.jpg" title="Viro manĝas bananon" >
+        </td>
+        <td style="padding: 10px 30px 10px 30px">
+            <img src="http://i1078.photobucket.com/albums/w484/greyblake/banano_mangas_knabon.jpg" title="Viron manĝas banano" >
+        </td>
+    </tr>
+    <tr>
+        <td style="padding: 10px 30px 10px 30px">
+            Viro manĝas banano<strong>n</strong>
+        </td>
+        <td style="padding: 10px 30px 10px 30px">
+            Viro<strong>n</strong> manĝas banano
+        </td>
+    </tr>
+</table>
+
+
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Nokta rimarko]]></title>
