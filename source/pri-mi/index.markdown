@@ -25,7 +25,7 @@ Kiam mi havas liberan tempon mi programas(mi estas programisto), gitarludas, ler
 Esperanton, legas librojn kaj rulsketas.
 
 Bonvolu legi miajn artikolojn kaj skribu komentojn.
-Se vi volas korespondas kun mi skribu per sociaj retoj =)
+Se vi volas korespondi kun mi skribu al per sociaj retoj =)
 
 ### Miaj ligiloj
 
@@ -33,6 +33,7 @@ Se vi volas korespondas kun mi skribu per sociaj retoj =)
 * [Twitter](https://twitter.com/)
 * [Facebook](https://www.facebook.com/greyblake)
 * [Vkontakte](http://vk.com/greyblake)
+* [Youtube](http://youtube.com/greyblake)
 * [Ipernity](http://www.ipernity.com/home/272113?rev=31)
 * [Lernu.net](http://ru.lernu.net/komunikado/uzantoj/prezento.php?id=153300)
 * [Github](https://github.com/greyblake)
