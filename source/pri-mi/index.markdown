@@ -16,7 +16,7 @@ Ankaŭ mi havas [alian blogon](http://greyblake.com) en la angla por programisto
 
 Mi lernas Esperanton kaj mi decidis krei ĉi tiun blogon por praktiki mian
 skribkapablon kaj subteni la Esperanton movadon en Interreto. Nuntempe mi
-estas komencanto do bonvolu korekti min se vi havas erarojn.
+estas komencanto do bonvolu korekti min se mi havas erarojn.
 
 
 Mi loĝas en Ĥarkovo(Ukrainio) kaj mi estas membro de loka Esperanto klubo
