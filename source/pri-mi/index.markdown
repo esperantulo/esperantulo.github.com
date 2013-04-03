@@ -30,7 +30,7 @@ Se vi volas korespondi kun mi skribu al per sociaj retoj =)
 ### Miaj ligiloj
 
 
-* [Twitter](https://twitter.com/)
+* [Twitter](https://twitter.com/greyblake)
 * [Facebook](https://www.facebook.com/greyblake)
 * [Vkontakte](http://vk.com/greyblake)
 * [Youtube](http://youtube.com/greyblake)
