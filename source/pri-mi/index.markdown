@@ -30,11 +30,12 @@ Se vi volas korespondi kun mi skribu al per sociaj retoj =)
 ### Miaj ligiloj
 
 
-* [Twitter](https://twitter.com/greyblake_eo)
-* [Facebook](https://www.facebook.com/greyblake)
-* [Vkontakte](http://vk.com/greyblake)
-* [Youtube](http://youtube.com/greyblake)
-* [Ipernity](http://www.ipernity.com/home/272113?rev=31)
-* [Lernu.net](http://ru.lernu.net/komunikado/uzantoj/prezento.php?id=153300)
-* [Github](https://github.com/greyblake)
-* [Mia alia blogo](http://greyblake.com)
+[Twitter](https://twitter.com/greyblake_eo),
+[Facebook](https://www.facebook.com/greyblake),
+[Google+](https://plus.google.com/111330556871447648568/posts),
+[Vkontakte](http://vk.com/greyblake),
+[Youtube](http://youtube.com/greyblake),
+[Ipernity](http://www.ipernity.com/home/272113?rev=31),
+[Lernu.net](http://ru.lernu.net/komunikado/uzantoj/prezento.php?id=153300),
+[Github](https://github.com/greyblake),
+[Mia alia blogo](http://greyblake.com)
