@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Esperanto | Esperantulo]]></title>
   <link href="http://esperantulo.com/blogo/kategorioj/esperanto/atom.xml" rel="self"/>
   <link href="http://esperantulo.com/"/>
-  <updated>2013-04-05T00:26:19+03:00</updated>
+  <updated>2013-04-06T03:39:05+03:00</updated>
   <id>http://esperantulo.com/</id>
   <author>
     <name><![CDATA[Sergej Potapov]]></name>
@@ -12,6 +12,40 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Novaĵoj]]></title>
+    <link href="http://esperantulo.com/blogo/2013/04/06/novajoj/"/>
+    <updated>2013-04-06T03:07:00+03:00</updated>
+    <id>http://esperantulo.com/blogo/2013/04/06/novajoj</id>
+    <content type="html"><![CDATA[<p>Saluton, karaj legantoj. Mi havas iom da novaĵoj por vi.</p>
+
+<h2>Nova konto en Twitter</h2>
+
+<p>Do en Twitter min sekvas ankaŭ aliaj popoloj krom esperantistoj mi decidis
+krei novan konton nur por Esperanto. Bonvolu sekvu min tra
+<a href="https://twitter.com/greyblake_eo">@greyblake_eo</a>.</p>
+
+<h2>Ĉemizoj</h2>
+
+<p>Antaŭ kelkaj tagoj mi mendis 4 ĉemizojn kun emblemoj de Esperanto ĉe interreta vendejo
+<a href="http://tutmonde.org">Tutmonde</a>.
+Ili eĉ <a href="https://twitter.com/tutmonde/status/319331721378148352">skiribis</a> pri tio en Twitter.
+Nun mi ĝoje atendas mian mendon.</p>
+
+<h2>Bona kanto de Martin</h2>
+
+<p>Ĵus mi trovis bonegan muzikan videon de Martin Wiese(kontisto de Persone). Mi tre
+ŝatas Persone, kaj ĉi tiu kanto kun interesa filmo ankaŭ estas tre bona. Aŭskultu ĝin!</p>
+
+<iframe width="640" height="360" src="http://www.youtube.com/embed/gWiH8BlpU0U" frameborder="0" allowfullscreen></iframe>
+
+
+<hr />
+
+<p>Kaj mi dume iras dormi, ĉar estas la tria nokte. Bonan nokton!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Pri antikafejo]]></title>
@@ -136,28 +170,6 @@ Nia klubo kune</p>
 <hr />
 
 <p>Dankon pro legi. Sekvan fojon mi rakontos pri kiel mi lernas Esperanton. Ĝis!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[La komenco]]></title>
-    <link href="http://esperantulo.com/blogo/2013/03/30/la-komenco/"/>
-    <updated>2013-03-30T18:29:00+02:00</updated>
-    <id>http://esperantulo.com/blogo/2013/03/30/la-komenco</id>
-    <content type="html"><![CDATA[<p>Saluton al esperantistoj de la tuta mondo!</p>
-
-<p>Nun mi kaj mia koramikino sidas ĉe tablo en kafejo kaj kreas ĉi tiun blogon.</p>
-
-<p>Mi havas iom da celoj por la blogo. Mi planas uzi tiun por praktiki mian skribadon
-en Esperanto. Bonvolu korekti min se mi havas erarojn, ĉar mi estas nur komencanto.</p>
-
-<h2>Post 5-7 horoj...</h2>
-
-<p>Por la blogo mi uzas <a href="http://octopress.org/">Octopress</a>, sed mi iomete ŝangis tiun, do
-tiu povas subteni Esperanton. Kaj nun estas nokto. Estis subite por mi, ke Octopress aŭ Jakyll
-ne integritaj kun I18n. Sed ne pensu pri tio se vi ne estas programisto kiel mi.</p>
-
-<p>Nun mi lacas, sed poste mi skribos plu. Bonan nokton!</p>
 ]]></content>
   </entry>
   

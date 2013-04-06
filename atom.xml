@@ -4,7 +4,7 @@
   <title><![CDATA[Esperantulo]]></title>
   <link href="http://esperantulo.com/atom.xml" rel="self"/>
   <link href="http://esperantulo.com/"/>
-  <updated>2013-04-05T00:26:19+03:00</updated>
+  <updated>2013-04-06T03:39:05+03:00</updated>
   <id>http://esperantulo.com/</id>
   <author>
     <name><![CDATA[Sergej Potapov]]></name>
@@ -12,6 +12,40 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Novaĵoj]]></title>
+    <link href="http://esperantulo.com/blogo/2013/04/06/novajoj/"/>
+    <updated>2013-04-06T03:07:00+03:00</updated>
+    <id>http://esperantulo.com/blogo/2013/04/06/novajoj</id>
+    <content type="html"><![CDATA[<p>Saluton, karaj legantoj. Mi havas iom da novaĵoj por vi.</p>
+
+<h2>Nova konto en Twitter</h2>
+
+<p>Do en Twitter min sekvas ankaŭ aliaj popoloj krom esperantistoj mi decidis
+krei novan konton nur por Esperanto. Bonvolu sekvu min tra
+<a href="https://twitter.com/greyblake_eo">@greyblake_eo</a>.</p>
+
+<h2>Ĉemizoj</h2>
+
+<p>Antaŭ kelkaj tagoj mi mendis 4 ĉemizojn kun emblemoj de Esperanto ĉe interreta vendejo
+<a href="http://tutmonde.org">Tutmonde</a>.
+Ili eĉ <a href="https://twitter.com/tutmonde/status/319331721378148352">skiribis</a> pri tio en Twitter.
+Nun mi ĝoje atendas mian mendon.</p>
+
+<h2>Bona kanto de Martin</h2>
+
+<p>Ĵus mi trovis bonegan muzikan videon de Martin Wiese(kontisto de Persone). Mi tre
+ŝatas Persone, kaj ĉi tiu kanto kun interesa filmo ankaŭ estas tre bona. Aŭskultu ĝin!</p>
+
+<iframe width="640" height="360" src="http://www.youtube.com/embed/gWiH8BlpU0U" frameborder="0" allowfullscreen></iframe>
+
+
+<hr />
+
+<p>Kaj mi dume iras dormi, ĉar estas la tria nokte. Bonan nokton!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Pri antikafejo]]></title>
