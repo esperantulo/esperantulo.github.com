@@ -25,7 +25,7 @@ Kiam mi havas liberan tempon mi programas(mi estas programisto), gitarludas, ler
 Esperanton, legas librojn kaj rulsketas.
 
 Bonvolu legi miajn artikolojn kaj skribu komentojn.
-Se vi volas korespondi kun mi skribu al per sociaj retoj =)
+Se vi volas korespondi kun mi skribu per sociaj retoj =)
 
 ### Miaj ligiloj
 
