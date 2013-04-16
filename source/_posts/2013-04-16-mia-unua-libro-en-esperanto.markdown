@@ -6,7 +6,7 @@ comments: true
 categories: Esperanto libro Baghy rakonto literaturo
 ---
 
-Mi ne scias, kie vi estas, kara leganto, sed se vi estus tie, kie mi estas, mi dirus nun "Bonan nokton" al vi.
+Mi ne scias, kie vi estas, kara leganto, sed se vi estus tie, kie mi estas, mi dirus nun bonan nokton al vi.
 
 Ŝajnas, ke mi havas pli novaĵojn ol mi havas tempon por skribi pri tiuj.
 Tamen, okazis ion gravan por mi, do legu.
