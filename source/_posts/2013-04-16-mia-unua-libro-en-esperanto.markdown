@@ -9,7 +9,7 @@ categories: Esperanto libro Baghy rakonto literaturo
 Mi ne scias, kie vi estas, kara leganto, sed se vi estus tie, kie mi estas, mi dirus nun bonan nokton al vi.
 
 Ŝajnas, ke mi havas pli novaĵojn ol mi havas tempon por skribi pri tiuj.
-Tamen, okazis ion gravan por mi, do legu.
+Tamen okazis ion gravan por mi, do legu.
 
 Ĉirkaŭ antaŭ dek tagoj mi serĉis paperajn esperantajn librojn per Interreto.
 Mi preskaŭ fiaskis, sed mi trovis ion ĉe ukrainia retvendejo. Ĝi estas tekstaro
@@ -19,7 +19,7 @@ Rigardu.
 
 {% img http://i1078.photobucket.com/albums/w484/greyblake/IMG_4598.jpg Rakontoj de Julio Baghy %}
 
-Eble pensas "Ĉu vere? Ĉu estas esperanta libro ne la rusa lingvo?". Parte vi pravas.
+Eble vi pensas "Ĉu vere? Ĉu estas esperanta libro ne la rusa lingvo?". Parte vi pravas.
 Fakte, tiu estas eduka libro skribita en la rusa kaj Esperanto. Ĝi konsitas el originala rakontoj
 kaj tradukoj kun komentoj. Do mi povas legi paragrafojn en Esperanto, sed se io estas ne komprenebla
 por mi, mi povas rigradi supren kaj tie estas traduko de sama paragrafo kun eksplikoj.
