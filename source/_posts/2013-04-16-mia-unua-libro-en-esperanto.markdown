@@ -31,4 +31,4 @@ La metodo nomiĝas "Metodo por legado de Ilia Franko" (en la rusa "Метод ч
 Oni jam eldonis multaj libroj per tiu ĉi maniero. Iam mi komencis legi "La Hobito" de Tolkien.
 Kial ajn, mi ĝojegas ke oni eldonis libron en Esperanto ankaŭ!
 
-Nun mi vere diras bonan nokoton al vi, kara leganto:)
+Nun mi vere diras bonan nokton al vi, kara leganto:)
