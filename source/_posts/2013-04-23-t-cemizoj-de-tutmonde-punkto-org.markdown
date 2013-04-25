@@ -17,11 +17,11 @@ Kiel vi fartas? Mi esperas, ke vi fartas bone. Ankaŭ mi)
 Antaŭe mi mendis kvar T-ĉemizojn ĉe retvendejo [tutmonde.org](http://tutmonde.org/).
 Kaj estas evidente, ke en la pakaĵo estis ili.
 
-Mi sendis foton al Joan Catala(de tutmonde.org) kaj, fakte, li jam venkis
+Mi sendis foton al Joan Catala(de tutmonde.org) kaj, fakte, li jam verkis
 [artikolon pri mi kaj T-ĉemizoj](http://tutmonde.org/blogo/ukrainaj-amikoj-kun-niaj-t-cxemizoj)
 en la blogo de retvendejo.
 
-Tamen, mi volas venki pri la aĉeto mem.
+Tamen, mi volas verki pri la aĉeto mem.
 
 
 ## T-ĉemizoj
