@@ -3,7 +3,7 @@ layout: post
 title: "Pri Aroma Jalto"
 date: 2013-05-17 01:52
 comments: true
-categories: Esperanto, renkontiĝo, "Aroma Jalto"
+categories: Esperanto, renkontiĝo, Aroma Jalto
 ---
 
 Saluton, samideanoj!
@@ -46,8 +46,11 @@ agrablaj kaj amikaj. Certe mi ne povas esprimi la atmosferon bone. Vi devas sent
 Ankaŭ mi aĉetis tie kelkajn libroj en Esperanto. Kaj nun mi signifas kion signifas
 "legi librojn", kiam oni diras tion je la 11-a vespere :D.
 
+Do mi tre ĝojas pro tio, ke Esperanto vere funkcias! Ni povas komuniki kaj ŝerci!
+Ni povas kanti kaj skribi! Ni povas havi geamikojn en diversaj ladoj kaj vojaĝi!
 
-Mi kreis etan filmon pri tio:
+
+Mi kreis etan filmon pri la renkontiĝo:
 
 <iframe width="640" height="360" src="http://www.youtube.com/embed/L-f1Z01DcBY" frameborder="0" allowfullscreen></iframe>
 
