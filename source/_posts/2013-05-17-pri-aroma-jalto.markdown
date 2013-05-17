@@ -1,0 +1,60 @@
+---
+layout: post
+title: "Pri Aroma Jalto"
+date: 2013-05-17 01:52
+comments: true
+categories: Esperanto, renkontiĝo, "Aroma Jalto"
+---
+
+Saluton, samideanoj!
+Sufiĉe longe mi ne skribis ion, do nun mi sentas, ke mi devas fari tion.
+
+Fakte, antaŭ unu semajno mi revenis de mia unua esperanto renkontiĝo Aroma Jalto,
+kiu daŭris dum dek tagoj, kaj mi volas priskribi iomete ĝin.
+
+Aroma Jalto estas Esperanto renkontiĝo organizata de UkrEA(Uraina Esperanto-Asocio).
+Ĝi okazas ĉiu jare en urbo [Jalto](http://eo.wikipedia.org/wiki/Jalto), kiu
+troviĝas en duoninsulo [Krimeo](http://eo.wikipedia.org/wiki/Krimeo) apud
+[Nigra Maro](http://eo.wikipedia.org/wiki/Nigra_Maro).
+
+Post vivo en la granda poluita urbo, mi sentis kiel freŝis aero.
+Estis printempo kaj ĉiuj kreskaĵoj floris, ĉie estis la belega odoro. Do eble pro
+tio oni nomiĝas la renkontiĝo Aroma Jalto.
+
+Pro mi tre grava, ke tie mi unuafoje uzis Esperanton pro internacia komunikado vive.
+Krom ukrainoj estis tre multe da poloj, rusoj, du germanoj kaj unu belgiano.
+Estas rimarkinde, ke inter la partoprenantoj ankaŭ estis du akademianoj.
+
+Preskaŭ ĉiuj tie estis pla aĝaj ol mi, sed nenio estis enua pro tio!
+Ĉiu tage ni havis, matenmanĝon, lecionoj, ofte piedmarŝojn trans belegaj montaroj,
+koncertoj, ludoj kaj tiel plu.
+
+Mi kaj mia amiko el Ĥarkovo komence konatiĝis kun du poloj de nia aĝo, kaj multe
+da tempoj ni pasigis kune. Tre interese, ke poloj estis ankaŭ programistoj kiel ni!
+Fakte, ĉiuj knaboj de mia aĝo, kiuj estis tie estas programistoj(ĉu ne estas strange?).
+
+Unue la renkontiĝo helpis al mi plibonigi mian Esperanton, precipe mian parolkapablon.
+Dum unuaj kvin tagoj, mi tute ne krokodilis, kaj ĉiam babilis, babilis, babilis... Kiam
+mi ekkuŝis por dormi kaj fermis miajn okulojn mi aŭdis voĉon de miaj novoj amikoj.
+Iam mi eĉ pensis, ke mi freneziĝas pro tio)
+
+Due mi eksciis multe da informo pri Esperanto kulturo kaj movado. Nun mi komprenas,
+kion signifas frazon "esperantistoj vivas en alia mondo". Ĉiuj estis tre afablaj,
+agrablaj kaj amikaj. Certe mi ne povas esprimi la atmosferon bone. Vi devas senti
+ĝin mem!
+
+Ankaŭ mi aĉetis tie kelkajn libroj en Esperanto. Kaj nun mi signifas kion signifas
+"legi librojn", kiam oni diras tion je la 11-a vespere :D.
+
+
+Mi kreis etan filmon pri tio:
+
+<iframe width="640" height="360" src="http://www.youtube.com/embed/L-f1Z01DcBY" frameborder="0" allowfullscreen></iframe>
+
+
+Bonvolu partopreni Aroman Jalton kun ni venontfoje!
+Vi povas aliĝi ĉe [retpaĝo de Aroma Jalto](http://aromajalto.ukrainio.org.ua/).
+
+
+P.S. Finfine mi unuafoje uzis mian [Vim Esperanto](https://github.com/greyblake/vim-esperanto)
+kromaĵon por skribi ĉi artikolon =)
