@@ -21,17 +21,17 @@ Post vivo en la granda poluita urbo, mi sentis kiel freŝis aero.
 Estis printempo kaj ĉiuj kreskaĵoj floris, ĉie estis la belega odoro. Do eble pro
 tio oni nomiĝas la renkontiĝo Aroma Jalto.
 
-Pro mi tre grava, ke tie mi unuafoje uzis Esperanton pro internacia komunikado vive.
+Por mi estas tre grave, ke tie mi unuafoje uzis Esperanton por internacia komunikado vive.
 Krom ukrainoj estis tre multe da poloj, rusoj, du germanoj kaj unu belgiano.
-Estas rimarkinde, ke inter la partoprenantoj ankaŭ estis du akademianoj.
+Rimarkinde, ke inter la partoprenantoj ankaŭ estis du akademianoj.
 
-Preskaŭ ĉiuj tie estis pla aĝaj ol mi, sed nenio estis enua pro tio!
+Preskaŭ ĉiuj tie estis pli aĝaj ol mi, sed nenio estis enua pro tio!
 Ĉiu tage ni havis, matenmanĝon, lecionoj, ofte piedmarŝojn trans belegaj montaroj,
 koncertoj, ludoj kaj tiel plu.
 
 Mi kaj mia amiko el Ĥarkovo komence konatiĝis kun du poloj de nia aĝo, kaj multe
-da tempoj ni pasigis kune. Tre interese, ke poloj estis ankaŭ programistoj kiel ni!
-Fakte, ĉiuj knaboj de mia aĝo, kiuj estis tie estas programistoj(ĉu ne estas strange?).
+da tempo ni pasigis kune. Tre interese, ke poloj estis ankaŭ programistoj kiel ni!
+Fakte, ĉiuj knaboj de mia aĝo, kiuj estis tie estis programistoj(ĉu ne estas strange?).
 
 Unue la renkontiĝo helpis al mi plibonigi mian Esperanton, precipe mian parolkapablon.
 Dum unuaj kvin tagoj, mi tute ne krokodilis, kaj ĉiam babilis, babilis, babilis... Kiam
@@ -43,7 +43,7 @@ kion signifas frazon "esperantistoj vivas en alia mondo". Ĉiuj estis tre afabla
 agrablaj kaj amikaj. Certe mi ne povas esprimi la atmosferon bone. Vi devas senti
 ĝin mem!
 
-Ankaŭ mi aĉetis tie kelkajn libroj en Esperanto. Kaj nun mi signifas kion signifas
+Ankaŭ mi aĉetis tie kelkajn libroj en Esperanto. Kaj nun mi scias kion signifas
 "legi librojn", kiam oni diras tion je la 11-a vespere :D.
 
 Do mi tre ĝojas pro tio, ke Esperanto vere funkcias! Ni povas komuniki kaj ŝerci!
