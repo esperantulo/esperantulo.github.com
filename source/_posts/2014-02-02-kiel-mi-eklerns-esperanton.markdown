@@ -24,7 +24,7 @@ ekscii pri la gramatikaj aferoj. Por tio mi povas rekomendi almenaŭ du kursojn:
 
 * [Lernu.net](http://lernu.net) - bone konata socia reto en la esperanta mondo.
 Tie ĉi estas troveblaj multe da retaj kursoj, inkluzive kursoj por komencantoj.
-* [Kurso de Esperanto](http://www.kurso.com.br/index.php) - brazila kurso tradukita al mutaj lingvoj. Persone al mi tre plaĉas.
+* [Kurso de Esperanto](http://www.kurso.com.br/index.php) - brazila kurso tradukita al multaj lingvoj. Persone al mi tre plaĉas.
 Estas nur 12 bone faritaj lecionoj post kiuj vi konos esperantan gramatikon, povos legi, paroli kaj skribi.
 
 {% img http://www.kurso.com.br/en/ekrano2.png Kurdo de Esperanto %}
