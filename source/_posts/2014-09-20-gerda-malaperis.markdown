@@ -24,7 +24,7 @@ prononcadon. Ankaŭ mi eksciis kelkajn novajn vortojn, kiujn mi metis al mia [An
 Esperanto kartaro.
 
 La romano estas skribita por instruado, do la rakonto estas sufiĉe simpla sed kun intrigo,
-kaj mi kun plezuro sinprobleme legis ĝin. Ĝi estas perfekta por mia nivelo de Esperanto.
+kaj mi kun plezuro senprobleme legis ĝin. Ĝi estas perfekta por mia nivelo de Esperanto.
 Fakte ĝi iom revivigis mian Esperanton, ĉar dum la longa tempo mi ne legis kaj ne parolis multe.
 
 Do la sekva libro, kion mi legu estas "Lasu min paroli plu". Verdire mi jam legis
